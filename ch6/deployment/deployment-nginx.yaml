@@ -4,6 +4,8 @@ metadata:
   name: nginx-deployment
   labels:
     app: nginx-deployment
+  annotations:
+    kubernetes.io/change-cause: version 1.25.2
 spec:
   replicas: 3
   selector:
