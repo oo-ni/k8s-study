@@ -1,8 +1,6 @@
 # k8s-study
-### Member
-윤건우, 허예은, 최유진
 
-### Study Rule
+### About
 23.09.11 ~ 23.12.23
 
 every Monday
